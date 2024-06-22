@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "619801676094",
+    "project_id": "cosmatic-3b57d",
+    "storage_bucket": "cosmatic-3b57d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:619801676094:android:58473a50e3ea315a88c46f",
+        "android_client_info": {
+          "package_name": "com.example.cosmatic"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBwK9PO1ekAEvg93O6Sq7rj7yrVCPC7N0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
